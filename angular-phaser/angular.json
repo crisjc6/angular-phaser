@@ -33,7 +33,10 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/game/phaser@3.55.2/phaser.js",
+              "src/game/phaser@3.55.2/phaser.min.js"
+            ]
           },
           "configurations": {
             "production": {
